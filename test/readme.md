@@ -1,1 +1,1 @@
-Training string
+**Training string**
